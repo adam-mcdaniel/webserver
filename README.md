@@ -71,4 +71,3 @@ The purpose of the assignment is to familiarize you with the automatic build, co
          iv. once connected to your instance type 'docker ps': your container should be running
 10. Enter ip adress of the machine (just the ip, nothing else) as the
     last line of your netid.md file in the cs340-21/students repo and create a pull request
-         
